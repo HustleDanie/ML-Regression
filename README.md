@@ -7,6 +7,7 @@
 4. Support Vector Regression<br>
 5. Decision Tree Regression<br>
 6. Random Forest Regression<br>
+7. XGBoost Regressor
 
 <p>N.B: There are many more regression algorithm, just have to experiment as many as possible.</p>
 
